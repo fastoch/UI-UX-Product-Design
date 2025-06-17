@@ -8,8 +8,29 @@ We'll use **Figma**
 
 ## Course Outline
 
-- meeting the client
-- 
+- Meeting the client
+- Getting started
+  - sketching
+  - inspiration
+  - user flows
+  - sitemaps
+- Explore & iterate
+  - wireframes
+  - prototyping
+  - getting feedback
+- Visual Design
+  - grids + spacing
+  - typography
+  - forms + UI elements
+  - colors
+  - imagery + iconography
+  - accessibility
+- Design Exploration
+  - design patterns
+  - mobile design
+  - applying visual design
+  - motion
+  - micro-interactions
 
 # Sketching
 
