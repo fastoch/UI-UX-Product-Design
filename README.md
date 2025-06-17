@@ -48,9 +48,12 @@ This is the part where you interact with the client to determine what they need,
 From the planning phase, we move to **the design phase**.  
 The design phase is all about using all the information produced during the planning phase, and making it into reality.  
 
-From the design phase, we get into the development phase.  
+From the design phase, we get into **the development phase**.  
 The development phase is where we do the programming/coding work.  
-We take all the assets and information that we've gathered from the previous stage, and we try to implement it on a website, or a web app.  
+We take all the assets and information that we've gathered from the previous stage, and we implement it on a web or mobile app.  
+
+Once we've built the product, then we get into **the launch phase**.  
+This is where we deliver our product to the users, 
 
 # Sketching
 
