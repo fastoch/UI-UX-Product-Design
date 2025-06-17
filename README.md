@@ -61,10 +61,23 @@ Do the users face any issues? How could we improve the product and deliver a bet
 And this turns into a loop, because from the insights that we get after the launch, we can now start improving our product.  
 We can start planning again, designing again, and implementing the changes... You can never really finish a product.  
 
+- Plan
+- Design
+- Develop
+- Deploy
+- Get feedback
+- Plan
+- Design
+- ...
+
+## Skills to be a top designer
+
+
+
 # Sketching
 
 
 
 
 ---
-@3%
+@4%
