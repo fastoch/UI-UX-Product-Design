@@ -58,7 +58,7 @@ Usually, there's some polishing we need to do, which is why the process doesn't 
 The next step is **the post-launch phase**. We handed off the product to our client, and we need to monitor how the launch goes.  
 Do the users face any issues? How could we improve the product and deliver a better version?  
 
-And this turns into a loop, because from the insights that we get after the launch, we can now start improving our product.  
+And this turns into a **loop**, because from the insights that we get after the launch, we can now start improving our product.  
 We can start planning again, designing again, and implementing the changes... You can never really finish a product.  
 
 - Plan
@@ -66,13 +66,17 @@ We can start planning again, designing again, and implementing the changes... Yo
 - Develop
 - Deploy
 - Get feedback
-- Plan
-- Design
-- ...
+- Rinse & Repeat
 
 ## Skills to be a top designer
 
+There are 4 key elements to designing:
+- Graphic Design: colors, layout, typography, sketching
+- User Experience (UX): understanding your customer
+- Goal Conversion: motivating the visitors to use your web app, to buy your products or services, to subscribe
+- Platform Development: knowing how the platform you're designing for works, be it a web app, a mobile app or anything else
 
+As a designer, we need to look for the best resources available online. There's a ton of great resources out there that will ease our job.  
 
 # Sketching
 
@@ -80,4 +84,4 @@ We can start planning again, designing again, and implementing the changes... Yo
 
 
 ---
-@4%
+@5%
