@@ -80,8 +80,43 @@ As a designer, we need to look for the best resources available online. There's 
 
 # Sketching
 
+## Intro
+
+Sketching is a two step process:
+- idea generation: as many as we can, under the form of sketches
+- adding detail and refinement: refining our sketches, then adding more detail
+
+In step 2, the point is to kill some of our ideas.  
+
+## From idea generation to refinement 
+
+Ideas must be turned into initial sketches, which have lower level details, and usually no colors.  
+The goal here is to draw a ot of basic sketches.  
+
+From here, we're going to start refining and adding some details.  
+We can start making **wireframes** at this point.  
+
+The next step is to transform our wireframes into something more organized and functional, into actual **components**.  
+
+## The Sketching Process
+
+- What are your **goals**?
+- Who is your **audience**?
+- Keep yourself under a **time limit**
+- Start sketching
+- Draw a **frame** for the targeted device
+- If multiple devices, go **mobile first**, it's easier to then adjust to bigger screen sizes
+- Start with basic elements and those that are **redundant** (header, footer, navigation bar, etc.)
+- Move onto some more **detailed interactions** throught annotations and **arrows**
+- **Annotate** your sketches so anyone can understand them, and keep them **safe**
+- **Share** your sketches so you can get **feedback** from your friends or coworkers
+- Add **titles** to your sketches
+- You can even try numbering your sketches if you think it's relevant, it might help understand a workflow
+
+## Sketching User Flows
+
 
 
 
 ---
-@5%
+@6%
