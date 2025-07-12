@@ -113,10 +113,12 @@ The next step is to transform our wireframes into something more organized and f
 - Add **titles** to your sketches
 - You can even try numbering your sketches if you think it's relevant, it might help understand a workflow
 
-## Sketching User Flows
+## Intro to Figma
+
+
 
 
 
 
 ---
-@6%
+@10%
