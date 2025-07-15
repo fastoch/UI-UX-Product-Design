@@ -115,7 +115,38 @@ The next step is to transform our wireframes into something more organized and f
 
 # Intro to Figma
 
-## Figma UI: Left Sidebar
+## Layers
+
+In Figma, a layer is any individual design element—such as a shape, text, image, frame, or group—that you add to your canvas.  
+Each object you create is automatically represented as its own layer in the Layers panel on the left side of the interface.  
+This panel displays all layers in your file, organized so you can select, arrange, and manage each element independently.  
+
+Layers are visually **stacked** from top to bottom in the Layers panel.  
+The layer at the top appears in front of all others in your design.   
+You can change the stacking (overlapping) order by dragging layers up or down.
+
+## Groups
+
+In Figma, a group is a basic way to combine multiple elements so you can manage and manipulate them as a single unit.  
+This is particularly useful for keeping your designs organized and making it easier to move, resize, or edit several objects at once.
+
+## Frames
+
+Frames can act as a scaffolding for a specific device or screen size, like a single page in an app design.  
+They can also act as containers for layers that make up distinct elements, like the layers in a navigation bar.  
+
+
+
+## Sections
+
+
+## Components
+
+Components are **reusable** design elements—such as buttons, icons, forms, cards, or even entire layouts—that you can use across your projects to maintain consistency and efficiency.   
+
+Once you create a component, you can generate multiple instances (copies) of it throughout your designs.   
+When you update the main (master) component, all instances automatically reflect those changes, making global updates fast and reliable.  
+
 
 
 
