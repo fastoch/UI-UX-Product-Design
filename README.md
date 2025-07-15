@@ -135,10 +135,14 @@ This is particularly useful for keeping your designs organized and making it eas
 Frames can act as a scaffolding for a specific device or screen size, like a single page in an app design.  
 They can also act as containers for layers that make up distinct elements, like the layers in a navigation bar.  
 
-
+Frames can be nested.  
+But, unlike groups, frames can have dimensions and properties of their own, such as fills, rounded corners...  
 
 ## Sections
 
+The section tool allows us to designate and label a specific region of the canvas.  
+You can use sections to group related concepts and ideas, or to organize your designs.  
+Sections help to draw focus, 
 
 ## Components
 
@@ -150,8 +154,5 @@ When you update the main (master) component, all instances automatically reflect
 
 
 
-
-
-
 ---
-@12%
+@13%
